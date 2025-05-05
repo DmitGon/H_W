@@ -3,3 +3,4 @@
 3 Test case title: some title 
 4 Steps to reproduce:1,2,3
 5 Info about test case2
+6 Test case3 
